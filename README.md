@@ -37,18 +37,52 @@
 
 ### 🚀 Featured Projects
 
-<a href="https://github.com/hazarsozer/project-lumi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hazarsozer&repo=project-lumi&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/hazarsozer/project-omnivore">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hazarsozer&repo=project-omnivore&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/hazarsozer/crucible-cc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hazarsozer&repo=crucible-cc&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/hazarsozer/recipe-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hazarsozer&repo=recipe-bot&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌙 <a href="https://github.com/hazarsozer/project-lumi">Lumi</a></h3>
+      <p><i>The Ghost in the Machine</i></p>
+      <p>Offline-first desktop AI companion. Local SLMs, dynamic RAM offloading, no cloud dependency. Runs a full audio-to-text pipeline in 3GB VRAM.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Phi--3.5-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Whisper-000000?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥄 <a href="https://github.com/hazarsozer/project-omnivore">project-omnivore</a></h3>
+      <p><i>Universal file ingestion pipeline</i></p>
+      <p>Extract, enrich, and index any document into a database or RAG system. Handles arbitrary formats, designed for plug-in extractors and downstream indexing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vector%20DB-DC244C?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚔️ <a href="https://github.com/hazarsozer/crucible-cc">crucible-cc</a></h3>
+      <p><i>Not another code reviewer</i></p>
+      <p>Multi-stage code review pipeline plugin for Claude Code with 23 adaptive personas. <b>⭐ 3 stars</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/MIT-A31F34?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👨‍🍳 <a href="https://github.com/hazarsozer/recipe-bot">ChefAI</a></h3>
+      <p><i>Constraint-aware dual-agent system</i></p>
+      <p>Dual-agent system: fine-tuned Mistral-7B (Chef) generates, Phi-3 (Waiter) enforces constraints. QLoRA fine-tuning on RTX 4070S + RAG over 200K recipes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Mistral--7B-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/QLoRA-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Unsloth-FF6F00?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -63,11 +97,10 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hazarsozer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazarsozer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hazarsozer&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hazarsozer&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=hazarsozer&cc=22272e&tc=58A6FF&ic=F778BA&bc=0d1117" />
 </p>
 
 ---
